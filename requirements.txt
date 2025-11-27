@@ -1,0 +1,7 @@
+# File: requirements.txt
+# ----------------------
+# 列出异步 HTTP 库和解析库；截图为可选依赖（imgkit 需要 wkhtmltoimage 安装）。
+
+aiohttp
+beautifulsoup4
+imgkit
